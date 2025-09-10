@@ -44,7 +44,7 @@ using namespace std;
 /*int main() {
     float x=17;
     float y=1;
-    float z=(x+(++x))/(((++x)/6)*(++y));
+    float z=(x+(++x))/((y+2)*(++y));
     cout << z << endl;
 }*/
 
