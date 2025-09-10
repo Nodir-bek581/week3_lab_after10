@@ -95,3 +95,27 @@ using namespace std;
         cout << 0;
     }
 }*/
+
+//problem21
+/*int main() {
+    int a,b;
+    cin >> a >> b;
+
+    if ((a+b)>30 and (a*b)>30) {cout << 1;}
+    else {cout << 0;}
+
+    if ((a+b-10)>30 or (a*(b-10))>30) {cout << 1;}
+    else {cout << 0;}
+
+    if (a>30 or b>30) {cout << 1;}
+    else {cout << 0;}
+ }*/
+
+//Problem22
+/*int main() {
+    float x, y;
+    cin >> x >> y;
+    float ftdancmga = 30.48*y;
+    if (ftdancmga>x) {cout << 1;}
+    else {cout << 0;}
+}*/
